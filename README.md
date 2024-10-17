@@ -10,10 +10,10 @@ To write a python program to perform stop and wait protocol
 6. Stop the Program
 
 ## PROGRAM:
-```
+
 ### DEVELOPED BY: HARISH S
 ### REG NO:212223230071
-```
+
 CLIENT : 
 ```
 import socket 
